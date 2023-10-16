@@ -15,42 +15,42 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 ## Tech Stack: 💻
 
 > <p align="center">
-> <img src="pics/python.svg" alt="Python" width="48" height="48" />
-> <img src="pics/image1.svg" alt="Java" width="48" height="48" />
-> <img src="pics/image2.svg" alt="HTML" width="48" height="48" />
-> <img src="pics/image3.svg" alt="CSS" width="48" height="48" />
-> <img src="pics/image4.svg" alt="JavaScript" width="48" height="48" />
-> <img src="pics/image5.svg" alt="TS" width="48" height="48" />
-> <img src="pics/image6.svg" alt="Kotlin" width="48" height="48" />
+> <img src="pics/python.png" alt="Python" width="48" height="48" />
+> <img src="pics/java.png" alt="Java" width="48" height="48" />
+> <img src="pics/image2.png" alt="HTML" width="48" height="48" />
+> <img src="pics/image3.png" alt="CSS" width="48" height="48" />
+> <img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
+> <img src="pics/image5.png" alt="TS" width="48" height="48" />
+> <img src="pics/image6.png" alt="Kotlin" width="48" height="48" />
 > </p>
 
 > <p align="center">
-> <img src="pics/image7.svg" alt="Open-CV" width="48" height="48" />
-> <img src="pics/image8.svg" alt="TensorFlow" width="48" height="48" />
-> <img src="pics/image9.svg" alt="flask" width="48" height="48" />
-> <img src="pics/image10.svg" alt="Fast-API" width="48" height="48" />
-> <img src="pics/image11.svg" alt="Pytorch" width="48" height="48" />
+> <img src="pics/image7.png" alt="Open-CV" width="48" height="48" />
+> <img src="pics/image8.png" alt="TensorFlow" width="48" height="48" />
+> <img src="pics/image9.png" alt="flask" width="48" height="48" />
+> <img src="pics/image10.png" alt="Fast-API" width="48" height="48" />
+> <img src="pics/image11.png" alt="Pytorch" width="48" height="48" />
 > <img src="pics/image12.png" alt="Mysql" width="48" height="48" />
-> <img src="pics/image13.svg" alt="SQLite" width="48" height="48" />
-> <img src="pics/image14.svg" alt="Selenium" width="48" height="48" />
-> <img src="pics/image15.svg" alt="Pytest" width="48" height="48" />
-> <img src="pics/image16.svg" alt="Django" width="48" height="48" />
-> <img src="pics/image17.svg" alt="bootstrap" width="48" height="48" />
+> <img src="pics/image13.png" alt="SQLite" width="48" height="48" />
+> <img src="pics/image14.png" alt="Selenium" width="48" height="48" />
+> <img src="pics/image15.png" alt="Pytest" width="48" height="48" />
+> <img src="pics/image16.png" alt="Django" width="48" height="48" />
+> <img src="pics/image17.png" alt="bootstrap" width="48" height="48" />
 </p>
 
 > <p align="center">
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" width="48" height="48" />
-> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IJ" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="48" height="48" />
-> <img src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" alt="DB browser" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="48" height="48" />
-> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="bash" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="anaconda" width="48" height="48" />
-> <img src="https://upload.wikimedia.org/wikipedia/en/0/08/Resource_hacker_icon2.png" alt="rh" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premier-pro" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="premier-pro" width="48" height="48" />
+> <img src="pics/image18.png" alt="Pycharm" width="48" height="48" />
+> <img src="pics/image19.png" alt="IJ" width="48" height="48" />
+> <img src="pics/image20.png" alt="android-studio" width="48" height="48" />
+> <img src="pics/db.png" alt="DB browser" width="48" height="48" />
+> <img src="pics/image21.png" alt="git" width="48" height="48" />
+> <img src="pics/image22.png" alt="bash" width="48" height="48" />
+> <img src="pics/image23.png" alt="anaconda" width="48" height="48" />
+> <img src="pics/image24.png" alt="anaconda" width="48" height="48" />
+> <img src="pics/image25.png" width="48" height="48" />
+> <img src="pics/image26.png" alt="photoshop" width="48" height="48" />
+> <img src="pics/image27.png" alt="premier-pro" width="48" height="48" />
+> <img src="pics/db.png" alt="premier-pro" width="48" height="48" />
 > </p>
     
 ---
@@ -65,3 +65,6 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 > <a href="https://www.codewars.com/users/armM00">
 >    <img src="https://docs.codewars.com/logo.svg" alt="CodeWars" width="48" height="48" />
 > </a>
+
+
+
