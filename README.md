@@ -15,7 +15,7 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 ## Tech Stack: 💻
 
 <p align="center">
-<img src="https://i.ibb.co/XCPK5KJ/python.png" alt="Python" width="48" height="48" />
+<img src="pics/python.png" alt="Python" width="48" height="48" />
 <img src="pics/java.png" alt="Java" width="48" height="48" />
 <img src="pics/image2.png" alt="HTML" width="48" height="48" />
 <img src="pics/image3.png" alt="CSS" width="48" height="48" />
@@ -24,34 +24,34 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 <img src="pics/image6.png" alt="Kotlin" width="48" height="48" />
 </p>
 
-> <p align="center">
-> <img src="pics/image7.png" alt="Open-CV" width="48" height="48" />
-> <img src="pics/image8.png" alt="TensorFlow" width="48" height="48" />
-> <img src="pics/image9.png" alt="flask" width="48" height="48" />
-> <img src="pics/image10.png" alt="Fast-API" width="48" height="48" />
-> <img src="pics/image11.png" alt="Pytorch" width="48" height="48" />
-> <img src="pics/image12.png" alt="Mysql" width="48" height="48" />
-> <img src="pics/image13.png" alt="SQLite" width="48" height="48" />
-> <img src="pics/image14.png" alt="Selenium" width="48" height="48" />
-> <img src="pics/image15.png" alt="Pytest" width="48" height="48" />
-> <img src="pics/image16.png" alt="Django" width="48" height="48" />
-> <img src="pics/image17.png" alt="bootstrap" width="48" height="48" />
+<p align="center">
+<img src="pics/image7.png" alt="Open-CV" width="48" height="48" />
+<img src="pics/image8.png" alt="TensorFlow" width="48" height="48" />
+<img src="pics/image9.png" alt="flask" width="48" height="48" />
+<img src="pics/image10.png" alt="Fast-API" width="48" height="48" />
+<img src="pics/image11.png" alt="Pytorch" width="48" height="48" />
+<img src="pics/image12.png" alt="Mysql" width="48" height="48" />
+<img src="pics/image13.png" alt="SQLite" width="48" height="48" />
+<img src="pics/image14.png" alt="Selenium" width="48" height="48" />
+<img src="pics/image15.png" alt="Pytest" width="48" height="48" />
+<img src="pics/image16.png" alt="Django" width="48" height="48" />
+<img src="pics/image17.png" alt="bootstrap" width="48" height="48" />
 </p>
 
-> <p align="center">
-> <img src="pics/image18.png" alt="Pycharm" width="48" height="48" />
-> <img src="pics/image19.png" alt="IJ" width="48" height="48" />
-> <img src="pics/image20.png" alt="android-studio" width="48" height="48" />
-> <img src="pics/db.png" alt="DB browser" width="48" height="48" />
-> <img src="pics/image21.png" alt="git" width="48" height="48" />
-> <img src="pics/image22.png" alt="bash" width="48" height="48" />
-> <img src="pics/image23.png" alt="anaconda" width="48" height="48" />
-> <img src="pics/image24.png" alt="anaconda" width="48" height="48" />
-> <img src="pics/image25.png" width="48" height="48" />
-> <img src="pics/image26.png" alt="photoshop" width="48" height="48" />
-> <img src="pics/image27.png" alt="premier-pro" width="48" height="48" />
-> <img src="pics/db.png" alt="premier-pro" width="48" height="48" />
-> </p>
+<p align="center">
+<img src="pics/image18.png" alt="Pycharm" width="48" height="48" />
+<img src="pics/image19.png" alt="IJ" width="48" height="48" />
+<img src="pics/image20.png" alt="android-studio" width="48" height="48" />
+<img src="pics/db.png" alt="DB browser" width="48" height="48" />
+<img src="pics/image21.png" alt="git" width="48" height="48" />
+<img src="pics/image22.png" alt="bash" width="48" height="48" />
+<img src="pics/image23.png" alt="anaconda" width="48" height="48" />
+<img src="pics/image24.png" alt="anaconda" width="48" height="48" />
+<img src="pics/image25.png" width="48" height="48" />
+<img src="pics/image26.png" alt="photoshop" width="48" height="48" />
+<img src="pics/image27.png" alt="premier-pro" width="48" height="48" />
+<img src="pics/db.png" alt="premier-pro" width="48" height="48" />
+</p>
     
 ---
 ## Social Networks: 🌐
