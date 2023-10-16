@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Armen-Jean-Andreasian/Armen-Jean-Andreasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Armen-Jean Andreasian, a tech enthusiast with a focus on computer science, programming and OSINT.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various open-source projects and expanding my knowledge.
+- 🌱 I’m currently learning quantum computing, neural networks, game development
+- 👯 I’m looking to collaborate on projects related to API-s, neural networks, cybersecurity and open-source contributions.
+- 📫 How to reach me: [armen.andreasian77@gmail.com](mailto:armen.andreasian77@gmail.com)
+- ⚡ Fun fact: I'm a dedicated gamer, and you can find me on [Steam](https://steamcommunity.com/id/hardy_77/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+Feel free to reach out, collaborate, or ask any questions related to my areas of interest or my tech stack. Let's connect and learn together!
