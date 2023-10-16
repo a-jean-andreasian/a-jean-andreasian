@@ -14,15 +14,15 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 ---
 ## Tech Stack: 💻
 
-> <p align="center">
-> <img src="https://i.ibb.co/XCPK5KJ/python.png" alt="Python" width="48" height="48" />
-> <img src="pics/java.png" alt="Java" width="48" height="48" />
-> <img src="pics/image2.png" alt="HTML" width="48" height="48" />
-> <img src="pics/image3.png" alt="CSS" width="48" height="48" />
-> <img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
-> <img src="pics/image5.png" alt="TS" width="48" height="48" />
-> <img src="pics/image6.png" alt="Kotlin" width="48" height="48" />
-> </p>
+<p align="center">
+<img src="https://i.ibb.co/XCPK5KJ/python.png" alt="Python" width="48" height="48" />
+<img src="pics/java.png" alt="Java" width="48" height="48" />
+<img src="pics/image2.png" alt="HTML" width="48" height="48" />
+<img src="pics/image3.png" alt="CSS" width="48" height="48" />
+<img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
+<img src="pics/image5.png" alt="TS" width="48" height="48" />
+<img src="pics/image6.png" alt="Kotlin" width="48" height="48" />
+</p>
 
 > <p align="center">
 > <img src="pics/image7.png" alt="Open-CV" width="48" height="48" />
