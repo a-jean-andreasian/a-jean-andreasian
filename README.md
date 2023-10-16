@@ -15,27 +15,27 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 ## Tech Stack: 💻
 
 > <p align="center">
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" />
+> <img src="pics/python.svg" alt="Python" width="48" height="48" />
+> <img src="pics/image1.svg" alt="Java" width="48" height="48" />
+> <img src="pics/image2.svg" alt="HTML" width="48" height="48" />
+> <img src="pics/image3.svg" alt="CSS" width="48" height="48" />
+> <img src="pics/image4.svg" alt="JavaScript" width="48" height="48" />
+> <img src="pics/image5.svg" alt="TS" width="48" height="48" />
+> <img src="pics/image6.svg" alt="Kotlin" width="48" height="48" />
 > </p>
 
 > <p align="center">
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="Open-CV" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="Fast-API" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" alt="Pytorch" width="48" height="48" />
-> <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="Mysql" width="48" height="48" />
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="48" height="48" />
-> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" />
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="48" height="48" />
+> <img src="pics/image7.svg" alt="Open-CV" width="48" height="48" />
+> <img src="pics/image8.svg" alt="TensorFlow" width="48" height="48" />
+> <img src="pics/image9.svg" alt="flask" width="48" height="48" />
+> <img src="pics/image10.svg" alt="Fast-API" width="48" height="48" />
+> <img src="pics/image11.svg" alt="Pytorch" width="48" height="48" />
+> <img src="pics/image12.png" alt="Mysql" width="48" height="48" />
+> <img src="pics/image13.svg" alt="SQLite" width="48" height="48" />
+> <img src="pics/image14.svg" alt="Selenium" width="48" height="48" />
+> <img src="pics/image15.svg" alt="Pytest" width="48" height="48" />
+> <img src="pics/image16.svg" alt="Django" width="48" height="48" />
+> <img src="pics/image17.svg" alt="bootstrap" width="48" height="48" />
 </p>
 
 > <p align="center">
@@ -65,6 +65,3 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 > <a href="https://www.codewars.com/users/armM00">
 >    <img src="https://docs.codewars.com/logo.svg" alt="CodeWars" width="48" height="48" />
 > </a>
-
-
-
