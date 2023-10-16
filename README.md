@@ -56,15 +56,15 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 ---
 ## Social Networks: 🌐
 
-> <a href="https://steamcommunity.com/id/hardy_77/">
->    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/768px-Steam_icon_logo.svg.png" alt="Steam" width="48" height="48" />
-> </a>
-> <a href="https://leetcode.com/a_andreasian/">
->    <img src="https://www.goodtecher.com/wp-content/uploads/2020/08/LeetCode_logo-150x150.png" alt="Leetcode" width="48" height="48" />
-> </a>
-> <a href="https://www.codewars.com/users/armM00">
->    <img src="https://docs.codewars.com/logo.svg" alt="CodeWars" width="48" height="48" />
-> </a>
+<a href="https://steamcommunity.com/id/hardy_77/">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/768px-Steam_icon_logo.svg.png" alt="Steam" width="48" height="48" />
+</a>
+<a href="https://leetcode.com/a_andreasian/">
+   <img src="https://www.goodtecher.com/wp-content/uploads/2020/08/LeetCode_logo-150x150.png" alt="Leetcode" width="48" height="48" />
+</a>
+<a href="https://www.codewars.com/users/armM00">
+   <img src="https://docs.codewars.com/logo.svg" alt="CodeWars" width="48" height="48" />
+</a>
 
 
 
