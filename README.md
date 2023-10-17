@@ -50,7 +50,6 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 <img src="pics/image25.png" width="48" height="48" />
 <img src="pics/image26.png" alt="photoshop" width="48" height="48" />
 <img src="pics/image27.png" alt="premier-pro" width="48" height="48" />
-<img src="pics/db.png" alt="premier-pro" width="48" height="48" />
 </p>
     
 ---
