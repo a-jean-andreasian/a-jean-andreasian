@@ -17,6 +17,7 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 <p align="center">
 <img src="pics/python.png" alt="Python" width="48" height="48" />
 <img src="pics/java.png" alt="Java" width="48" height="48" />
+<img src="[pics/java.png](https://ashitani.jp/golangtips/gopher.png)" alt="Go" width="48" height="48" />
 <img src="pics/image2.png" alt="HTML" width="48" height="48" />
 <img src="pics/image3.png" alt="CSS" width="48" height="48" />
 <img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
