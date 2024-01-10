@@ -66,5 +66,6 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
    <img src="https://docs.codewars.com/logo.svg" alt="CodeWars" width="48" height="48" />
 </a>
 
-
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armen-Jean-Andreasian&layout=pie)](https://github.com/Armen-Jean-Andreasian/github-readme-stats)
 
