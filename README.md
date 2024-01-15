@@ -2,12 +2,15 @@
 
 ### Salut ! 👋
 
-I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on computer science, programming, ethical hacking and OSINT.
+I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on computer science, programming, ethical
+hacking and OSINT.
 
 - 📫 How to reach me: [armen.andreasian77@gmail.com](mailto:armen.andreasian77@gmail.com)
 
 ---
+
 ## Languages:
+
 <p align="center">
 <img src="pics/python.png" alt="Python" width="48" height="48" />
 <img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
@@ -19,6 +22,7 @@ I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on co
 </p>
 
 ### Web and API:
+
 <p align="center">
 <img src="pics/image16.png" alt="Django" width="48" height="48" />
 <img src="pics/flask.png" alt="flask" width="48" height="48" />
@@ -36,6 +40,7 @@ I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on co
 </p>
 
 ### Web scrapping:
+
 <p align="center">
 <img src="pics/image14.png" alt="Selenium" width="48" height="48" />
 <img src="pics/requests.png" alt="requests" width="48" height="48" />
@@ -45,8 +50,8 @@ I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on co
 
 </p>
 
-
 ### Databases:
+
 <p align="center">
 <img src="pics/image12.png" alt="Mysql" width="48" height="48" />
 <img src="pics/image13.png" alt="SQLite" width="48" height="48" />
@@ -55,10 +60,11 @@ I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on co
 <img src="pics/redis.png" alt="Redis" width="48" height="48" />
 <img src="pics/mongodb.png" alt="mongodb" width="48" height="48" />
 <img src="pics/firebase.png" alt="firebase" width="48" height="48" />
+<img src="pics/pickle.png" alt="firebase" width="48" height="48" />
 </p>
 
-
 ### Data Science:
+
 <p align="center">
 <img src="pics/numpy.png" alt="Numpy" width="48" height="48" />
 <img src="pics/pandas.jpg" alt="Pandas" width="48" height="48" />
@@ -69,15 +75,35 @@ I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on co
 <img src="pics/plotly.png" alt="plotly" width="48" height="48" />
 </p>
 
+### GUI:
+
+<p align="center">
+<img src="pics/tkinter.png" alt="Pytest" width="48" height="48" />
+<img src="pics/PyQT5.png" alt="PyQT5" width="48" height="48" />
+<img src="pics/sg.png" alt="pysimplegui" width="48" height="48" />
+<img src="pics/kivy.png" alt="pysimplegui" width="48" height="48" />
+<img src="pics/pygame.png" alt="pygame" width="48" height="48" />
+</p>
+
+### ML, CV, NLP
+
+<p align="center">
+<img src="pics/image7.png" alt="Open-CV" width="48" height="48" />
+<img src="pics/image8.png" alt="TensorFlow" width="48" height="48" />
+<img src="pics/image11.png" alt="Pytorch" width="48" height="48" />
+<img src="pics/nltk.png" alt="nltk" width="48" height="48" />
+</p>
+
 ### Testing:
+
 <p align="center">
 <img src="pics/image15.png" alt="Pytest" width="48" height="48" />
 <img src="pics/postman.png" alt="postman" width="48" height="48" />
 <img src="pics/unittest.png" alt="postman" width="48" height="48" />
-
 </p>
 
-### DevOps and Others:
+### DevOps, Schedulers, Brokers and Others:
+
 <p align="center">
 <img src="pics/docker.png" alt="Docker" width="48" height="48" />
 <img src="pics/kubernetes.png" alt="Kubernetes" width="48" height="48" />
@@ -85,17 +111,8 @@ I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on co
 <img src="pics/airflow.png" alt="airflow" width="48" height="48" />
 <img src="pics/kafka.jpg" alt="kafka" width="48" height="48" />
 <img src="pics/rabbitmq.png" alt="rabbitmq" width="48" height="48" />
-</p>
 
-
-### Machine Learning, Computer Vision, NLP, etc
-<p align="center">
-<img src="pics/image7.png" alt="Open-CV" width="48" height="48" />
-<img src="pics/image8.png" alt="TensorFlow" width="48" height="48" />
-<img src="pics/image11.png" alt="Pytorch" width="48" height="48" />
-<img src="pics/nltk.png" alt="nltk" width="48" height="48" />
 </p>
-    
 
 ---
 
