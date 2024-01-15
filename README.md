@@ -102,7 +102,7 @@ hacking and OSINT.
 <img src="pics/unittest.png" alt="postman" width="48" height="48" />
 </p>
 
-### DevOps, Schedulers, Brokers and Others:
+### DevOps, Schedulers, Brokers, etc:
 
 <p align="center">
 <img src="pics/docker.png" alt="Docker" width="48" height="48" />
@@ -111,7 +111,17 @@ hacking and OSINT.
 <img src="pics/airflow.png" alt="airflow" width="48" height="48" />
 <img src="pics/kafka.jpg" alt="kafka" width="48" height="48" />
 <img src="pics/rabbitmq.png" alt="rabbitmq" width="48" height="48" />
+</p>
 
+### Others:
+<p align="center">
+<img src="pics/image21.png" alt="git" width="48" height="48" />
+<img src="pics/image22.png" alt="git_bash" width="48" height="48" />
+<img src="pics/db.png" alt="db_browser" width="48" height="48" />
+<img src="pics/image26.png" alt="photoshop" width="48" height="48" />
+<img src="pics/image27.png" alt="p_pro" width="48" height="48" />
+<img src="pics/wireshark.png" alt="wireshark" width="48" height="48" />
+<img src="pics/maltego.png" alt="maltego" width="48" height="48" />
 </p>
 
 ---
