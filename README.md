@@ -38,7 +38,7 @@ Feel free to reach out, collaborate, or ask any questions related to my areas of
 <img src="pics/image15.png" alt="Pytest" width="48" height="48" />
 <img src="pics/image17.png" alt="bootstrap" width="48" height="48" />
     
-<img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo.png" alt="Numpy" width="48" height="48" />
+<img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="48" height="48" />
 <img src="pics/image17.png" alt="bootstrap" width="48" height="48" />
     
 </p>
