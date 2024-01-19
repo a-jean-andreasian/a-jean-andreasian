@@ -154,4 +154,4 @@ hacking and OSINT.
 </p>
 
 ---
-- 📫 How to reach me: [armen.andreasian77@gmail.com](mailto:armen.andreasian77@gmail.com)
+- 📫 How to reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
