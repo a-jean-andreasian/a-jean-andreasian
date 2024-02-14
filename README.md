@@ -20,9 +20,9 @@ hacking and OSINT.
 ---
 ### Web and API:
 <p align="center">
-<img src="pics/image16.png" alt="Django" width="48" height="48" />
-<img src="pics/flask.png" alt="flask" width="48" height="48" />
 <img src="pics/image10.png" alt="Fast-API" width="48" height="48" />
+<img src="pics/flask.png" alt="flask" width="48" height="48" />
+<img src="pics/image16.png" alt="Django" width="48" height="48" />
 <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="DjangoREST" width="48" height="48" />
 <img src="https://wangoes.com/images/icons/framework/pyramid.webp" alt="pyramid" width="48" height="48" />
 <img src="pics/image17.png" alt="bootstrap" width="48" height="48" />
