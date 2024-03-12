@@ -2,8 +2,13 @@
 
 ### Salut ! 👋
 
-I'm Armen-Jean Andreasian, a tech enthusiast and a programmer with a focus on computer science, programming, ethical
-hacking and OSINT.
+<picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Armen-Jean-Andreasian/Armen-Jean-Andreasian/cd66a8efe9be287abedfe43398c1308b2d116e60/pics/github-contribution-grid-snake-dark.svg">
+     <img alt="snake!" src="https://raw.githubusercontent.com/Armen-Jean-Andreasian/Armen-Jean-Andreasian/cd66a8efe9be287abedfe43398c1308b2d116e60/pics/github-contribution-grid-snake-dark.svg">
+</picture>
+
+I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast. 
+
 
 ---
 ## Languages:
@@ -154,4 +159,4 @@ hacking and OSINT.
 </p>
 
 ---
-- 📫 How to reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
+- 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
