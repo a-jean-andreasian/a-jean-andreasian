@@ -14,6 +14,7 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 ## Languages:
 <p align="center">
 <img src="pics/python.png" alt="Python" width="48" height="48" />
+<img src="pics/https://c0.klipartz.com/pngpicture/832/921/gratis-png-iconos-de-computadora-ruby-%E2%80%8B%E2%80%8Blenguaje-de-programacion-programacion-de-computadoras-ruby-thumbnail.png" alt="Ruby" width="48" height="48" />
 <img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
 <img src="pics/golang.png" alt="Go" width="48" height="48" />
 <img src="pics/java.png" alt="Java" width="48" height="48" />
