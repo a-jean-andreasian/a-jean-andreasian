@@ -30,6 +30,22 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 </p>
 
 ---
+## Type of projects I'm into
+
+### Commercial:
+- Backend
+- Data Science
+- Scripting
+
+### Personal:
+- Machine Learning
+- Desktop apps
+- Pentest
+- Cryptography
+- SaaS
+- Mobile apps
+
+---
 ## Social Networks:
 
 <p align="center">
