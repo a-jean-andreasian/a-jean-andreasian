@@ -12,11 +12,17 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 
 ---
 ## Languages:
+
+### Primary:
 <p align="center">
 <img src="pics/python.png" alt="Python" width="48" height="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" alt="Ruby" width="48" height="48" />
-<img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
 <img src="pics/golang.png" alt="Go" width="48" height="48" />
+</p>
+
+### Secondary:
+<p align="center">
+<img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
 <img src="pics/java.png" alt="Java" width="48" height="48" />
 <img src="pics/image5.png" alt="TS" width="48" height="48" />
 <img src="pics/image2.png" alt="HTML" width="48" height="48" />
