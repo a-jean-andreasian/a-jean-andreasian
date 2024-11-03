@@ -9,7 +9,8 @@
 
 I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast. 
 
-
+#### My Projects: [Free Apps For All](https://github.com/Free-Apps-for-All)
+#### 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
 ---
 ## Languages:
 
@@ -64,6 +65,3 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 </a>
 
 </p>
-
----
-- 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
