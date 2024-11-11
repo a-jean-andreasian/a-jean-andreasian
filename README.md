@@ -55,7 +55,6 @@ For work:
 - #### On [LinkedIn](https://www.linkedin.com/in/a-jean-andreasian/).
 
 Coding:
-- #### My [GitHub](https://github.com/Armen-Jean-Andreasian) _account with prototype projects._
 - #### My "Free Apps for All" [GitHub Organization](https://github.com/orgs/Free-Apps-for-All/) _with original open-source projects._
 - #### My [Leetcode](https://leetcode.com/u/a_andreasian/).
 - #### My [Codewars](https://www.codewars.com/users/armM00).
