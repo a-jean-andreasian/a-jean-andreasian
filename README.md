@@ -63,5 +63,5 @@ Leisure:
 - #### My [IMDB](https://www.imdb.com/user/ur107910595).
 - #### My [Goodreads](goodreads.com/a_andreasian).
 - #### My [Spotify](https://open.spotify.com/user/inrqs975b7j6ph81db3blo2pt).
-- #### My [Steam](https://steamcommunity.com/id/hardy_77/). _Why not, if you are looking for a teammate - add me._
+- #### My [Steam](https://steamcommunity.com/id/hardy_77/).
 ---
