@@ -47,21 +47,21 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 - Mobile apps
 
 ---
-## Social Networks:
+## Contact me
 
-<p align="center">
+Reach out:
+- #### Reach me on: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me).
+- #### Reach me on [Telegram](https://t.me/a_andreasian).
 
-<a href="https://steamcommunity.com/id/hardy_77/">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/768px-Steam_icon_logo.svg.png" alt="Steam" width="48" height="48" />
-</a>
-<a href="https://t.me/hardliner21">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="CodeWars" width="48" height="48" />
-</a>
-<a href="https://leetcode.com/a_andreasian/">
-   <img src="https://www.goodtecher.com/wp-content/uploads/2020/08/LeetCode_logo-150x150.png" alt="Leetcode" width="48" height="48" />
-</a>
-<a href="https://www.codewars.com/users/armM00">
-   <img src="https://docs.codewars.com/logo.svg" alt="CodeWars" width="48" height="48" />
-</a>
+Coding:
+- #### My [GitHub](https://github.com/Armen-Jean-Andreasian) _account with prototype projects._
+- #### My "Free Apps for All" [GitHub Organization](https://github.com/orgs/Free-Apps-for-All/) _with original open-source projects._
+- #### My [Leetcode](https://leetcode.com/u/a_andreasian/).
+- #### My [Codewars](https://www.codewars.com/users/armM00).
 
-</p>
+Leisure:
+- #### My [IMDB](https://www.imdb.com/user/ur107910595).
+- #### My [Goodreads](goodreads.com/a_andreasian).
+- #### My [Spotify](https://open.spotify.com/user/inrqs975b7j6ph81db3blo2pt).
+- #### My [Steam](https://steamcommunity.com/id/hardy_77/). _Why not, if you are looking for a teammate - add me._
+---
