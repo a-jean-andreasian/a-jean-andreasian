@@ -49,9 +49,10 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 ---
 ## Contact me
 
-Reach out:
-- #### Reach me on: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me).
-- #### Reach me on [Telegram](https://t.me/a_andreasian).
+For work:
+- #### Email: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me).
+- #### Via [Telegram](https://t.me/a_andreasian).
+- #### On [LinkedIn](https://www.linkedin.com/in/a-jean-andreasian/).
 
 Coding:
 - #### My [GitHub](https://github.com/Armen-Jean-Andreasian) _account with prototype projects._
