@@ -11,10 +11,10 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 
 ---
 About my GitHub:
-- Demonstrational products MVPs or libraries you can on this [GitHub Account](https://github.com/Armen-Jean-Andreasian). 
+- Demonstrational products or libraries you can find right here: [GitHub Account](https://github.com/Armen-Jean-Andreasian). 
 - Badass Student Projects for anyone who want to skill-up are here: [Simple-Student-Projects](https://github.com/Simple-Student-Projects)
-- Ready to use Gitmodules are here: [Simple-Student-Projects](https://github.com/not-gitmodules)
-- Production-ready projects are private.
+- Ready to use Gitmodules are here: [Not-Gitmodules](https://github.com/not-gitmodules)
+- Production-ready projects or MVPs are private, however their list will be published soon.
 
 #### 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
 ---
