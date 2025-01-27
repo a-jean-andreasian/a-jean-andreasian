@@ -29,9 +29,9 @@ About my GitHub:
 
 ### Secondary:
 <p align="center">
-<img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
 <img src="pics/java.png" alt="Java" width="48" height="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="48" height="48" />
+<img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
 <img src="pics/image5.png" alt="TS" width="48" height="48" />
 <img src="pics/image2.png" alt="HTML" width="48" height="48" />
 <img src="pics/image3.png" alt="CSS" width="48" height="48" />
