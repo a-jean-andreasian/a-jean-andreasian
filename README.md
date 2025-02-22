@@ -10,8 +10,6 @@
 I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast. 
 
 ---
-#### 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
----
 ## Languages:
 
 ### Primary:
@@ -35,7 +33,7 @@ I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast.
 ## Contact me
 
 For work:
-- #### Email: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me).
+- #### 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
 - #### Telegram [Telegram](https://t.me/a_andreasian).
 
 Leisure:
