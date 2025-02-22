@@ -10,12 +10,6 @@
 I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast. 
 
 ---
-About my GitHub:
-- Demonstrational products or libraries you can find right here: [GitHub Account](https://github.com/Armen-Jean-Andreasian). 
-- Badass Student Projects for anyone who want to skill-up are here: [Simple-Student-Projects](https://github.com/Simple-Student-Projects)
-- Ready to use Gitmodules are here: [Not-Gitmodules](https://github.com/not-gitmodules)
-- Production-ready projects or MVPs are private, however their list will be published soon.
-
 #### 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
 ---
 ## Languages:
@@ -38,32 +32,11 @@ About my GitHub:
 </p>
 
 ---
-## Type of projects I'm into
-
-### Commercial:
-- Backend
-- Data Science
-- Scripting
-
-### Personal:
-- Machine Learning
-- Desktop apps
-- Pentest
-- Cryptography
-- SaaS
-- Mobile apps
-
----
 ## Contact me
 
 For work:
 - #### Email: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me).
-- #### Via [Telegram](https://t.me/a_andreasian).
-- #### On [LinkedIn](https://www.linkedin.com/in/a-jean-andreasian/).
-
-Coding:
-- #### My [Leetcode](https://leetcode.com/u/a_andreasian/).
-- #### My [Codewars](https://www.codewars.com/users/armM00).
+- #### Telegram [Telegram](https://t.me/a_andreasian).
 
 Leisure:
 - #### My [IMDB](https://www.imdb.com/user/ur107910595).
