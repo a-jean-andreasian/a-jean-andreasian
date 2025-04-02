@@ -9,34 +9,6 @@
 
 I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast. 
 
----
-## Languages:
-
-### Primary:
-<p align="center">
-<img src="pics/python.png" alt="Python" width="48" height="48" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" alt="Ruby" width="48" height="48" />
-<img src="pics/golang.png" alt="Go" width="48" height="48" />
-</p>
-
-### Secondary:
-<p align="center">
-<img src="pics/java.png" alt="Java" width="48" height="48" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="48" height="48" />
-<img src="pics/image4.png" alt="JavaScript" width="48" height="48" />
-<img src="pics/image5.png" alt="TS" width="48" height="48" />
-<img src="pics/image2.png" alt="HTML" width="48" height="48" />
-<img src="pics/image3.png" alt="CSS" width="48" height="48" />
-</p>
-
----
-## Contact me
-
-For work:
-- #### 📫 Reach me: [armen_andreasian@proton.me](mailto:armen_andreasian@proton.me)
-- #### Telegram [Telegram](https://t.me/a_andreasian).
-
-Leisure:
 - #### My [IMDB](https://www.imdb.com/user/ur107910595).
 - #### My [Goodreads](goodreads.com/a_andreasian).
 - #### My [Spotify](https://open.spotify.com/user/inrqs975b7j6ph81db3blo2pt).
