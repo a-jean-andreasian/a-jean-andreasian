@@ -1,6 +1,4 @@
-# Projects
-
-All projects are original, some are original from idea to implementation, some are original in implementation. They serve for different purposes and domains.
+All projects/products are original, some are original from idea to implementation, some are original in implementation. They serve for different purposes and domains.
 - If you want access to a specific project message me.
 - The status of projects may change.
 - They are provided "AS ARE"
