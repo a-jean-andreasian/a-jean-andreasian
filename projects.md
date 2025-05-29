@@ -13,7 +13,7 @@ All projects are original, some are original from idea to implementation, some a
 
 
 ---
-## Collection: "Showdown"
+## Projects 
 Here are represented some fully original from idea to implementation serious pieces of code.
 
 - [**Excallibur**](https://github.com/Armen-Jean-Andreasian/Excallibur) *is an original, statically-typed programming language.*
@@ -23,7 +23,7 @@ Here are represented some fully original from idea to implementation serious pie
 - **[The Directory Scanner](https://github.com/Armen-Jean-Andreasian/the-directory-scanner)** is a Python lib which scans the directory structures and generates a comprehensive list of files and folders. It provides a convenient way to recursively traverse directories, ignoring specific files and folders specified by the user.
 
 ---
-### Collection: "Useful tools"
+## Tools
 Scripts and projects that are also absolutely original from idea to implementation.
 - [**Sorry Streamlit**](https://github.com/Armen-Jean-Andreasian/sorry-streamlit) is a life-saver tool, which keeps your projects awake on Streamlit. 
 
