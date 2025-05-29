@@ -58,9 +58,15 @@ This is a collection for students as well, however this showcases ready-to-use p
 
 
 ---
-## 🔥 Fun & Experimental
+## Experimental
 
 - [**Betting Odds Calculator**](https://github.com/Armen-Jean-Andreasian/Betting-Odds-Calculator): *Original and mathematical side project aiming to mimic how odds are being calculated. Particularly, it reveals what's the profit of bookmakers, for those who think betting is something serious.*
+
+
+---
+## Fun
+
+Disclaimer: Educational purposes only!
 
 - [**Banana**](https://github.com/Armen-Jean-Andreasian/Banana): *is a todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet.*
 
