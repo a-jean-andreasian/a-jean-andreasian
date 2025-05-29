@@ -32,7 +32,7 @@ All projects/products are original, some are original from idea to implementatio
 ---
 ## 🎓 Open Source Contributions (new ones)
 
-- [**pyddos**](https://github.com/Armen-Jean-Andreasian/pyddos) a huge update on the barealy working original.
+- [**pyddos**](https://github.com/Armen-Jean-Andreasian/pyddos) a huge business logic update on the barely working original.
 
 ---
 ## 🎓 "From Scratch" Series (for Students)
