@@ -5,6 +5,7 @@ All projects/products are original, some are original from idea to implementatio
 
 - **[Events-Near-Me](https://github.com/Armen-Jean-Andreasian/Events-Near-Me)** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
 - **[DeepFocus](https://github.com/Armen-Jean-Andreasian/DeepFocus)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination.*
+- **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a feature-rich text editor designed for anyone who values a versatile and efficient text editing experience. It provides themes from atom and sublime text.*
 
 ---
 ## 🧪 Projects & tools
@@ -21,8 +22,17 @@ All projects/products are original, some are original from idea to implementatio
 
 - **[License Header Injector](https://github.com/Armen-Jean-Andreasian/License-header-injector)** *is a Python package designed to automatize insert license headers into your project's source files, instead of infinitely copy-pasting manually. Simply provide the license text, specify the file types, and let the script handle the rest.*
 
+- [**File encryptor for Python**](https://github.com/Armen-Jean-Andreasian/File-encryptor-for-Python):  _A script that encrypts your files using Fernet with a custom `master.key`, deletes the originals, and generates new encrypted files, which your are free to share._
+
+- [**File Encryptor for Ruby**](https://github.com/Armen-Jean-Andreasian/File-Encryptor-for-Ruby):  _A script that encrypts your files with AES-256-CBC with a custom `key` , deletes the originals, and generates new encrypted files, which your are free to share._
 
 - [**Sorry Streamlit**](https://github.com/Armen-Jean-Andreasian/sorry-streamlit) is a dev tool, which keeps your projects awake on Streamlit.
+
+
+---
+## 🎓 Open Source Contributions (new ones)
+
+- [**pyddos**](https://github.com/Armen-Jean-Andreasian/pyddos) a huge update on the barealy working original.
 
 ---
 ## 🎓 "From Scratch" Series (for Students)
@@ -31,11 +41,18 @@ All projects/products are original, some are original from idea to implementatio
 - [**AI Chatbot from Scratch**](https://github.com/Armen-Jean-Andreasian/ai-chatbot-from-scratch):  _Gather data, classify, create and train a model to have an AI Chatbot_
 - [**Requests from Scratch**](https://github.com/Armen-Jean-Andreasian/requests-from-scratch):  _A lightweight Python HTTP client for making requests with built-in support for redirects, JSON handling, and compressed response decoding._
 - [**Dotenv from Scratch**](https://github.com/Armen-Jean-Andreasian/dotenv-from-scratch):  _A 14-line substitutor of `python-dotenv`. Is also useful for production no-dependency containerizing._
-- [**File encryptor for Python**](https://github.com/Armen-Jean-Andreasian/File-encryptor-for-Python):  _A script that encrypts your files using Fernet with a custom `master.key`, deletes the originals, and generates new encrypted files, which your are free to share._
+
 
 ---
 ## 📚 "Know How" Series  (for Students)
 This is a collection for students as well, however this showcases ready-to-use products. For this I write original code, follow the docs, or implement the ideas of mine or others.
+
+- [**Selfie-AI**](https://github.com/Armen-Jean-Andreasian/Selfie-AI): _An application that allows you to take selfies with real-time face recognition and optional date timestamps. Capture the moment, add intelligence, and snap away!_
+
+- [**Pingo-Pongo**](https://github.com/Armen-Jean-Andreasian/Pingo-Pongo): _Ping-pong game_
+
+- [**ChatGPT-Desktop**](https://github.com/Armen-Jean-Andreasian/ChatGPT-Desktop): _Desktop application to have conversations with ChatGPT in real-time._
+
 
 - [**Wikipedia-RAG-System**](https://github.com/Armen-Jean-Andreasian/Wikipedia-RAG-System): _A Retrieval-Augmented Generation System with LlamaIndex and GPT-4o for working with Wikipedia articles. Showcases very high-level and production grade AI-integration, without data classification and model training, which the most of the companies do nowadays. Contains guides for seamless installation for Windows and Linux._
 
