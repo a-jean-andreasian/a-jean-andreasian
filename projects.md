@@ -1,9 +1,13 @@
-All projects/products are original, some are original from idea to implementation, some are original in implementation. 
+All listed projects and products are original—some conceived and developed entirely from scratch, others featuring unique technical implementations.
+
+> Note: Some projects may still be in development or set to private. If you're interested in any specific project, feel free to reach out—I'm open to discussion.
 
 ---
 ## 🍯 Products
 
 - **Events Near Me** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
+- **Red Ops Global Offensive** *an original OSINT product.*
+  - **_Features_**: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
 - **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://github.com/Armen-Jean-Andreasian/DeepFocus)*
 - **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a feature-rich text editor designed for anyone who values a versatile and efficient text editing experience. It provides themes from atom and sublime text.*
 
@@ -26,7 +30,7 @@ All projects/products are original, some are original from idea to implementatio
 
 - [**File Encryptor for Ruby**](https://github.com/Armen-Jean-Andreasian/File-Encryptor-for-Ruby):  _A script that encrypts your files with AES-256-CBC with a custom `key` , deletes the originals, and generates new encrypted files, which your are free to share._
 
-- [**Sorry Streamlit**](https://github.com/Armen-Jean-Andreasian/sorry-streamlit) is a dev tool, which keeps your projects awake on Streamlit.
+- [**Sorry Streamlit**](https://github.com/Armen-Jean-Andreasian/sorry-streamlit): *is a dev tool that keeps Streamlit projects active and awake, bypassing idle timeouts.*
 
 
 ---
@@ -67,12 +71,16 @@ This is a collection for students as well, however this showcases ready-to-use p
 ## Fun
 
 Disclaimer: Educational purposes only!
+* [**Banana**](https://github.com/Armen-Jean-Andreasian/Banana): *It’s a todo app that, in the background, DDoS attacks the Pentagon and hosts a Mexican drug market on the darknet.* **WAIT- put the red flags down.** There are no real IP addresses involved especially of Pentagon, and the “drug market” is just a blank HTML file with a title. Yes, the DDoS module and the darknet hosting module are real, **but** they don’t do anything illegal unless someone deliberately misuses them. I’ve also added a very clear disclaimer explaining what parts could land you in jail.
+  *  That said, this project highlights how real these threats are - especially when anti-DDoS protections are implemented poorly and servers go down because the dev has never actually dealt with these scenarios.
+  *  Same for darknet hosting: knowing how to spin up a hidden service is a rare but interesting skill. Here's a fun fact - small, legal businesses often see better conversion rates from darknet traffic. That’s why many tech giants quietly maintain services there. For example, **Facebook has had an official Tor-accessible version of the site since 2014**.
+  *  So yeah. No red flags. Just reality, wrapped in satire.
 
-- [**Banana**](https://github.com/Armen-Jean-Andreasian/Banana): *is a todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet.*
+* **[Russian-Roulette](https://github.com/Armen-Jean-Andreasian/Russian-Roulette)** is a *Windows System32 random file deletion game. And yes, it works.* It includes a manual on how to disable Windows protection, and you’re free to delete up to **3,342** files from System32. **WAIT - put the red flags down.** This is intended *only* to be run on a virtual dummy machine, which is clearly stated in the disclaimer.
 
-- **[Russian-Roulette](https://github.com/Armen-Jean-Andreasian/Russian-Roulette)** *is a Windows System32 random file deletion game, which works. Contains a manual how to disable Windows protection. You are free to delete up to 3342 files from System32.*
 
-- **[Active Erroring](https://github.com/Armen-Jean-Andreasian/Active-Erroring)** *is a Python package that provides a simple way to raise custom errors with customizable error names and messages for fun.*
+* **[Active Erroring](https://github.com/Armen-Jean-Andreasian/Active-Erroring)** is a *Python package that lets you raise custom errors with fully customizable names and messages - just for fun.*
+  **WAIT - put the red flags down.** The disclaimer clearly states this shouldn’t be used in real development environments.
 
 ---
 ## 🎮 Game Modding
