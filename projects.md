@@ -3,8 +3,8 @@ All projects/products are original, some are original from idea to implementatio
 ---
 ## 🍯 Products
 
-- **Events-Near-Me** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
-- **[DeepFocus](https://github.com/Armen-Jean-Andreasian/DeepFocus)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination.*
+- **Events Near Me** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
+- **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)*
 - **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a feature-rich text editor designed for anyone who values a versatile and efficient text editing experience. It provides themes from atom and sublime text.*
 
 ---
