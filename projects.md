@@ -68,9 +68,9 @@ This is a collection for students as well, however this showcases ready-to-use p
 
 
 ---
-## Fun
+## Entertainment
 
-Disclaimer: Educational purposes only!
+Disclaimer: For entertainment and educational purposes only!
 * [**Banana**](https://github.com/Armen-Jean-Andreasian/Banana): *It’s a todo app that, in the background, DDoS attacks the Pentagon and hosts a Mexican drug market on the darknet.* **WAIT- put the red flags down.** There are no real IP addresses involved especially of Pentagon, and the “drug market” is just a blank HTML file with a title. Yes, the DDoS module and the darknet hosting module are real, **but** they don’t do anything illegal unless someone intentionally misuses them. I’ve also added a very clear disclaimer explaining what parts could land you in jail along with recommended reading on "how to act in jail."
   *  That said, this project highlights how real these threats are - especially when anti-DDoS protections are implemented poorly and servers go down because the dev has never actually dealt with these scenarios.
   *  Same for darknet hosting: knowing how to spin up a hidden service is a rare but interesting skill. Here's a fun fact - small, legal businesses often see better conversion rates from darknet traffic. That’s why many tech giants quietly maintain services there. For example, **Facebook has had an official Tor-accessible version of the site since 2014**.
