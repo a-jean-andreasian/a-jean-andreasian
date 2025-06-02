@@ -53,6 +53,8 @@ This is a collection for students as well, however this showcases ready-to-use p
 
 - [**Selfie-AI**](https://github.com/Armen-Jean-Andreasian/Selfie-AI): _An application that allows you to take selfies with real-time face recognition and optional date timestamps. Capture the moment, add intelligence, and snap away!_
 
+- [**Image to Text Converter**](https://github.com/Armen-Jean-Andreasian/Image-to-Text-Converter): _A simple Python project that converts images to text using Optical Character Recognition (OCR) powered by the pytesseract library, with a user-friendly interface built on Streamlit._
+
 - [**Pingo-Pongo**](https://github.com/Armen-Jean-Andreasian/Pingo-Pongo): _Ping-pong game_
 
 - [**ChatGPT-Desktop**](https://github.com/Armen-Jean-Andreasian/ChatGPT-Desktop): _Desktop application to have conversations with ChatGPT in real-time._
