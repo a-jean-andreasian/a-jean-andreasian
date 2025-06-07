@@ -3,8 +3,8 @@
 ### Salut ! 👋
 
 <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Armen-Jean-Andreasian/Armen-Jean-Andreasian/cd66a8efe9be287abedfe43398c1308b2d116e60/pics/github-contribution-grid-snake-dark.svg">
-     <img alt="snake!" src="https://raw.githubusercontent.com/Armen-Jean-Andreasian/Armen-Jean-Andreasian/cd66a8efe9be287abedfe43398c1308b2d116e60/pics/github-contribution-grid-snake-dark.svg">
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
+     <img alt="snake!" src="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
 </picture>
 
 I'm a software engineer and a cybersecurity enthusiast. 
