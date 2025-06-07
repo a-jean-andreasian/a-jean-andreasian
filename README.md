@@ -7,7 +7,7 @@
      <img alt="snake!" src="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
 </picture>
 
-I'm a software engineer and a cybersecurity enthusiast. 
+Software Engineer with Bachelor's in Cybersecurity.
 
 - #### My [IMDB](https://www.imdb.com/user/ur107910595).
 - #### My [Goodreads](goodreads.com/a_andreasian).
