@@ -7,7 +7,7 @@
      <img alt="snake!" src="https://raw.githubusercontent.com/Armen-Jean-Andreasian/Armen-Jean-Andreasian/cd66a8efe9be287abedfe43398c1308b2d116e60/pics/github-contribution-grid-snake-dark.svg">
 </picture>
 
-I'm Armen-Jean Andreasian, a software engineer and a cybersecurity enthusiast. 
+I'm a software engineer and a cybersecurity enthusiast. 
 
 - #### My [IMDB](https://www.imdb.com/user/ur107910595).
 - #### My [Goodreads](goodreads.com/a_andreasian).
