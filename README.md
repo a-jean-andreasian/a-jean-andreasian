@@ -4,6 +4,7 @@
 
 - 👨‍💻 [Here](https://github.com/a-jean-andreasian/a-jean-andreasian/blob/main/projects.md) you can find the full list of
   my original & open source projects and products.
+- 📚 [This](https://github.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things) is my book - "OODST: Oversimplifying Overcomplicated Definitions of Simple Things"
 
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
