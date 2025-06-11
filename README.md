@@ -19,9 +19,9 @@
   <img src="https://raw.githubusercontent.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things/master/.github/img/cover.png" alt="OODST Cover" height="500" />
 </p>
 
-- Aims to demystify programming with clear explanations of "unthinkably hard" concepts. Covers topics from transistors to distributed systems.
-- Exposes illusions, questions dogmas, challenges the scam that profits off confusion, and promotes critical thinking.
-- Also includes non-coding topics, recommendations and solutions.
+- Aims to demystify programming with clear explanations of "unthinkably hard" concepts - from transistors to distributed systems and cybersecurity.
+- Exposes illusions, questions dogmas, challenges the scam that profits off confusion, and promotes critical thinking and human values.
+- Also includes non-coding topics, recommendations, and straightforward solutions.
 
 The book is open-source, published on GitHub, and completely free to read.
 
