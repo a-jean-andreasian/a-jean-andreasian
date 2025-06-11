@@ -36,7 +36,7 @@ All listed projects and products are original—some conceived and developed ent
 ---
 ## 🎓 Open Source Contributions (new ones)
 
-- [**pyddos**](https://github.com/Armen-Jean-Andreasian/pyddos) a huge business logic update on the barely working original.
+- [**pyddos**](https://github.com/mach1el/pyddos).
 
 ---
 ## 🎓 "From Scratch" Series (for Students)
