@@ -20,6 +20,11 @@
   <a href="https://linkedin.com/in/armen-jean-andreasian" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
+  
+  <a href="https://www.codewars.com/users/armM00" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Codewars" height="30" width="30" />
+  </a>  
+  
   <a href="https://www.leetcode.com/a_andreasian" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
   </a>  
