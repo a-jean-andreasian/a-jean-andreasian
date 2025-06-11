@@ -4,12 +4,26 @@
 
 - 👨‍💻 [Here](https://github.com/a-jean-andreasian/a-jean-andreasian/blob/main/projects.md) you can find the full list of
   my **original & open source** projects and products.
-- 📚 [This](https://github.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things) is my book - "OODST: Oversimplifying Overcomplicated Definitions of Simple Things"
+
 
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
      <img alt="snake!" src="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
 </picture>
+
+---
+
+## My book - ["OODST: Oversimplifying Overcomplicated Definitions of Simple Things"](https://github.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things/master/.github/img/cover.png" alt="OODST Cover" height="500" />
+</p>
+
+- Aims to demystify programming with clear explanations of "unthinkably hard" concepts. Covers topics from transistors to distributed systems.
+- Exposes illusions, questions dogmas, challenges the scam that profits off confusion, and promotes critical thinking.
+- Also includes non-coding topics, recommendations and solutions.
+
+The book is open-source, published on GitHub, and completely free to read.
 
 ---
 <h3 align="left">Connect with me:</h3>
