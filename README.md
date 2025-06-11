@@ -3,7 +3,7 @@
 <h1 align="center">Salut 👋, I'm Software Engineer and Cybersecurity enthusiast.</h1>
 
 - 👨‍💻 [Here](https://github.com/a-jean-andreasian/a-jean-andreasian/blob/main/projects.md) you can find the full list of
-  my original & open source projects and products.
+  my **original & open source** projects and products.
 - 📚 [This](https://github.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things) is my book - "OODST: Oversimplifying Overcomplicated Definitions of Simple Things"
 
 <picture>
