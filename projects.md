@@ -1,4 +1,4 @@
-All listed projects and products are original—some conceived and developed entirely from scratch, others featuring unique technical implementations.
+All listed projects and products are original. Some conceived and developed entirely from scratch, others featuring unique technical implementations.
 
 > Note: Some projects may still be in development or set to private. If you're interested in any specific project, feel free to reach out—I'm open to discussion.
 
