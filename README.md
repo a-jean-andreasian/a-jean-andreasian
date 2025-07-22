@@ -1,6 +1,8 @@
 ![](https://i.ibb.co/YXrfF37/8-F3-A2220-1000x630.jpg)
 
-<h1 align="center">Salut 👋, I'm Software Engineer and Cybersecurity enthusiast.</h1>
+<h1 align="center">Salut 👋, I’m Armen-Jean</h1>
+<h3 align="center">Software Engineer | Cybersecurity Enthusiast</h3>
+
 
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
@@ -17,11 +19,9 @@ All listed projects and products are original. Some conceived and developed enti
 ---
 ## 🍯 Products
 
-- **[Duckling Search Engine (DSE)](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a fully autonomous search engine, with crawlers, parsers, data pipelines and data storages.
-[Docs](https://a-jean-andreasian.github.io/duckling.github.io/).*It gathers data, filters bad queries, stores, classifies and reuses requests to grow into a self-sufficient search engine powered by native API or trained AI.*
+- **[Duckling Search Engine (DSE)](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** _is a fully autonomous search engine: crawlers, parsers, pipelines, storage, query reuse, AI-driven vision._ [Docs](https://a-jean-andreasian.github.io/duckling.github.io/)
 - **Events Near Me** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
-- **Red Ops Global Offensive** *an original OSINT product.*
-  - **_Features_**: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
+- **Red Ops Global Offensive** *an original OSINT product.* **_Features_**: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
 - **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://github.com/Armen-Jean-Andreasian/DeepFocus)*
 - **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a minimalist, customizable, lightweight text editor suitable for both personal and professional use.*
 
@@ -82,20 +82,13 @@ This is a collection for students as well, however this showcases ready-to-use p
 ## Entertainment
 
 Disclaimer: For entertainment and educational purposes only!
-* [**Banana**](https://github.com/Armen-Jean-Andreasian/Banana): *It’s a todo app that, in the background, DDoS attacks the Pentagon and hosts a Mexican drug market on the darknet.* **WAIT- put the red flags down.** There are no real IP addresses involved especially of Pentagon, and the “drug market” is just a blank HTML file with a title. Yes, the DDoS module and the darknet hosting module are real, **but** they don’t do anything illegal unless someone intentionally misuses them. I’ve also added a very clear disclaimer explaining what parts could land you in jail along with recommended reading on "how to act in jail."
-  *  That said, this project highlights how real these threats are - especially when anti-DDoS protections are implemented poorly and servers go down because the dev has never actually dealt with these scenarios.
-  *  Same for darknet hosting: knowing how to spin up a hidden service is a rare but interesting skill. Here's a fun fact - small, legal businesses often see better conversion rates from darknet traffic. That’s why many tech giants quietly maintain services there. For example, **Facebook has had an official Tor-accessible version of the site since 2014**.
-  
-  So yeah. No red flags.
+* **[**Banana**](https://github.com/Armen-Jean-Andreasian/Banana)**
 
-* **[Russian-Roulette](https://github.com/Armen-Jean-Andreasian/Russian-Roulette)** is a *Windows System32 random file deletion game. And yes, it works.* It includes a manual on how to disable Windows protection, and you’re free to delete up to **3,342** files from System32. **WAIT - put the red flags down.** This is intended *only* to be run on a virtual dummy machine, which is clearly stated in the disclaimer.
+* **[Russian-Roulette](https://github.com/Armen-Jean-Andreasian/Russian-Roulette)**
 
-
-* **[Active Erroring](https://github.com/Armen-Jean-Andreasian/Active-Erroring)** is a *Python package that lets you raise custom errors with fully customizable names and messages - just for fun.*
-  **WAIT - put the red flags down.** The disclaimer clearly states this shouldn’t be used in real development environments.
-
+* **[Active Erroring](https://github.com/Armen-Jean-Andreasian/Active-Erroring)**
 ---
-## 🎮 Game Modding
+## Game Modding
 
 - [**Fifa22-Icons-Unlocked**](https://github.com/Armen-Jean-Andreasian/Fifa22-Icons-Unlocked) *a custom mod to unlock legendary players across all FIFA 22 modes*
 
