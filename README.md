@@ -18,9 +18,7 @@ All listed projects and products are original. Some conceived and developed enti
 ## 🍯 Products
 
 - **[Duckling Search Engine (DSE)](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a fully autonomous search engine, with crawlers, parsers, data pipelines and data storages.
-[Docs](https://a-jean-andreasian.github.io/duckling.github.io/)*
-
-It gathers data, filters bad queries, stores, classifies and reuses requests to grow into a self-sufficient search engine powered by native API or trained AI.*
+[Docs](https://a-jean-andreasian.github.io/duckling.github.io/).*It gathers data, filters bad queries, stores, classifies and reuses requests to grow into a self-sufficient search engine powered by native API or trained AI.*
 - **Events Near Me** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
 - **Red Ops Global Offensive** *an original OSINT product.*
   - **_Features_**: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
