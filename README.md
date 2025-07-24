@@ -19,7 +19,7 @@ All listed projects and products are original. Some conceived and developed enti
 ---
 ## 🍯 Products
 
-- **[Duckling Search Engine (DSE)](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** _is a fully autonomous search engine: crawlers, parsers, pipelines, storage, query reuse, AI-driven vision._ [Docs](https://a-jean-andreasian.github.io/duckling.github.io/)
+- **[Duckling Search Engine (DSE)](https://duckling-search-engine.onrender.com/)** _is a fully autonomous search engine: crawlers, parsers, pipelines, storage, query reuse, AI-driven vision._ [Docs](https://a-jean-andreasian.github.io/duckling.github.io/)
 - **Events Near Me** *is a platform to discover events: concerts, parties, conferences, etc. Supports ticketing and inviting friends directly from the app.*
 - **Red Ops Global Offensive** *an original OSINT product.* **_Features_**: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
 - **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://github.com/Armen-Jean-Andreasian/DeepFocus)*
