@@ -24,6 +24,7 @@ All listed projects and products are original. Some conceived and developed enti
 - **Red Ops Global Offensive** *an original OSINT product.* **_Features_**: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
 - **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://github.com/Armen-Jean-Andreasian/DeepFocus)*
 - **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a minimalist, customizable, lightweight text editor suitable for both personal and professional use.*
+- **[FUT Club Player Values Tracker](https://github.com/a-jean-andreasian/FUT-Club-Player-Values-Tracker)** _A tool to explore and analyze FIFA/FC Ultimate Team (FUT) club player market values._
 
 ---
 ## 🧪 Projects & tools
