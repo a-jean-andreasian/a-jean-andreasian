@@ -2,7 +2,7 @@
 
 <h1 align="center">Salut 👋, I’m Armen-Jean</h1>
 <h3 align="center">Software Engineer | Cybersecurity Enthusiast</h3>
-
+<h3 align="center">Bad habits & good vibes </h3>
 
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
@@ -82,12 +82,17 @@ This is a collection for students as well, however this showcases ready-to-use p
 ---
 ## Entertainment
 
-Disclaimer: For entertainment and educational purposes only!
-* **[**Banana**](https://github.com/Armen-Jean-Andreasian/Banana)**
+### Disclaimer: 
+> For entertainment and educational purposes only!
+> Also, if you "don’t find them ethical," spoiler: I’d rather make niche, fun, legendary, or useful projects than useless boring nonsense.
 
-* **[Russian-Roulette](https://github.com/Armen-Jean-Andreasian/Russian-Roulette)**
+* **[**Banana**](https://github.com/Armen-Jean-Andreasian/Banana)**: _A todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet._
 
-* **[Active Erroring](https://github.com/Armen-Jean-Andreasian/Active-Erroring)**
+* **[Russian-Roulette](https://github.com/Armen-Jean-Andreasian/Russian-Roulette)**: _Windows System32 Random File Deletion Game - The working one + tutorial_
+
+* **[Active Erroring](https://github.com/Armen-Jean-Andreasian/Active-Erroring)**: _A Python package that provides a simple way to raise custom errors with customizable error names, messages with false traces._
+
+  
 ---
 ## Game Modding
 
