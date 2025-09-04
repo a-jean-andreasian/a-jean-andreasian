@@ -84,7 +84,7 @@ This is a collection for students as well, however this showcases ready-to-use p
 
 ### Disclaimer: 
 > - For entertainment and educational purposes only!
-> - Also, if you “don’t find them ethical,” spoiler: I prefer creating niche, interesting, or genuinely useful projects over mundane or cloned (copy pasted/stolen) ones.
+> - Also, if you “don’t find them ethical,” spoiler: I prefer creating badass, cool, interesting, or genuinely useful projects over mundane ones.
 
 * **[**Banana**](https://github.com/Armen-Jean-Andreasian/Banana)**: _A todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet._
 
