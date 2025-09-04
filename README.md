@@ -83,8 +83,8 @@ This is a collection for students as well, however this showcases ready-to-use p
 ## Entertainment
 
 ### Disclaimer: 
-> For entertainment and educational purposes only!
-> Also, if you "don’t find them ethical," spoiler: I’d rather make niche, fun, legendary, or useful projects than useless boring nonsense.
+> - For entertainment and educational purposes only!
+> - Also, if you "don’t find them ethical," spoiler: I’d rather make niche, fun, legendary, or useful projects than useless boring nonsense.
 
 * **[**Banana**](https://github.com/Armen-Jean-Andreasian/Banana)**: _A todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet._
 
