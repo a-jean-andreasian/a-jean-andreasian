@@ -14,7 +14,7 @@
 
 All listed projects and products are original. Some conceived and developed entirely from scratch, others featuring unique technical implementations.
 
-> Note: Some projects may still be in development or set to private. If you're interested in any specific project, feel free to reach out—I'm open to discussion.
+> Note: Some projects may still be in development or set to private or are not on GitHub. However, if you're interested in any specific project — I'm open to discussion.
 
 ---
 ## 🍯 Products
