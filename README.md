@@ -4,6 +4,11 @@
 <h3 align="center">Software Engineer | Cybersecurity Enthusiast</h3>
 <h3 align="center">Bad habits & good vibes </h3>
 
+> Note: Some of my larger or ongoing projects are private or not hosted on GitHub due to different factors. What’s public here is a mix of tools, experiments, and open-source work. If you’re interested in specific areas (backend, pipelines, tools, ideas, MVPs), I’m open to discussing possible cooperation, startups, investment, or acquisition options in more detail.
+> - Currently only open to contract work on projects I’d be **proud** to contribute to.
+> - Not interested in crypto, AI hype, blockchain, gambling, or other scam/bubble domains. 
+
+
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
      <img alt="snake!" src="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
@@ -14,7 +19,7 @@
 
 All listed projects and products are original. Some conceived and developed entirely from scratch, others featuring unique technical implementations.
 
-> Note: Some projects may still be in development or set to private or are not on GitHub. However, if you're interested in any specific project — I'm open to discussion.
+
 
 ---
 ## 🍯 Products
