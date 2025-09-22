@@ -101,8 +101,8 @@ This is a collection for students as well, however this showcases ready-to-use p
 ---
 ## Game Modding
 
-- [**Fifa22-Icons-Unlocked**](https://github.com/Armen-Jean-Andreasian/Fifa22-Icons-Unlocked) *a custom mod to unlock legendary players across all FIFA 22 modes*
-
+- [**FIFA 22 Icons Unlocked**](https://github.com/Armen-Jean-Andreasian/Fifa22-Icons-Unlocked) *a custom mod to unlock legendary players across all FIFA 22 modes*
+- [**FC 25 Icons Unlocked**](https://github.com/a-jean-andreasian/FC25-ICONS-Unlocked) *a custom mod to unlock legendary players across all FC25 modes. Also it includes 100+ players with their faces of that are not in the game.*
 
 ---
 
