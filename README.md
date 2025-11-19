@@ -61,8 +61,9 @@
 ## 🧪 Open source projects & tools
 
 <p align="center">
-  <img src="projects_flyers/Deepfocus.png" width="45%">
-  <img src="flyer2.png" width="45%">
+  <img src="projects_flyers/Deepfocus.png" width="33%">
+  <img src="projects_flyers/NemesisXT.png" width="33%">
+  <img src="projects_flyers/NotGitmodules.png" width="33%">
   <br>
   <img src="flyer3.png" width="45%">
   <img src="flyer4.png" width="45%">
