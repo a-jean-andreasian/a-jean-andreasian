@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/YXrfF37/8-F3-A2220-1000x630.jpg)
 
 <h1 align="center">Salut 👋, I’m Armen-Jean</h1>
-<h3 align="center">Senior Software Developer and Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Engineer and Cybersecurity Enthusiast</h3>
 <h3 align="center">Bad habits & good vibes </h3>
 
 ---
@@ -30,7 +30,6 @@
 ## 1. Vision
 - **I love:** building products that bring real value or satisfaction to people. The kind of products whose ads simply show what they do and what features they have.
 - **I don’t accept:** fraud, scam, or bubble domains.
-- **I don’t accept teams:** with toxicity. I do respect everyone with the same respect as the CEO and want to work in a team with the same mindset.
 
  ## 2. Background
 - **Education:** InfoSec, Faculty of Computer Engineering.
@@ -38,34 +37,37 @@
 
 - **Experience intro:**
      - Initially I've been working in cybersec, then by the time I needed new experience and knowlegde so I came to software development.
-     - Tried almost all domains, but the most I liked and picked backend and system development.
+     - Tried almost all domains, but the most I liked and picked backend development.
 
  - **Experience:**
-      - I've been lucky to join a team which was insourcing projects and products by big players, so my code is stil there in products of Skyscanner, AT&T.
-      - Also I been a per project contractor with Yandex.
-      - Now I do have my ongoing contribution in LG until December 2025.
-      - Besides big players, I do also have experience with IT consulting brands such as ELEKS and Interexy. 
+   - Began with IT consulting brands such as ELEKS and Interexy.
+   - Then I had the pleasure of working with and contributing to products of major companies, and I'm proud that my code still ships in products of LG, AT&T, Skyscanner, and Yandex.
+      
 
 - **Enterprice:**
-     - Dependeing on the project developed from scratch and supported the full circle, maintened, supported, or implemented the tasks with close cooperation with product, devops, frontend, analitics.
-     - I was and am always okay to pick the most challanging task, and even to write in another language for the first time. It's cool to me because I'm open to learn, because I like thing and want to know as much as possible.
-     - I reject the mindset of other seniors who refuse to learn, stopped in progress and sublimating this by other irrelevant things like minding others' business, and becoming more and more toxic = literally unpleasant and boring person.
+     - Deeveloped from scratch and supported the full circle, maintened, supported, or implemented the tasks with close cooperation with product, devops, frontend, analitics.
+     - I like to pick the most challanging task, and even to write in another language for the first time. It's cool to me because I'm open to learn, because I like thing and want to know as much as possible.
  
  
-- **Type of enterprice projects:**
-     - Entertaiment domain: Blockchain-based ecosystem for content creators (blockchain is about the payment option), booking sytem, recommendation system.
-     - Internal domain: Payment system, management system, tools for sales and analitical departments (not just pipelines, because pipelines I've also built), AI integration tools, as well as projects related to NLP, CV and OCR.
-
 
 ## 3. Info
 - More interested: in non-IT product companies.
 - For remote positions sometimes I prefer companies that pay in stablecoins and/or weekly.
 - Contract preferences: 6 / 12 / 18 months.
 - Full-time depends on your team and management.
-- Currently employed. Current contract ends in December 2025.
+- Currently focused on R&D. 
 
 ---
 ## 🧪 Open source projects & tools
+
+<p align="center">
+  <img src="projects_flyers/Deepfocus.png" width="45%">
+  <img src="flyer2.png" width="45%">
+  <br>
+  <img src="flyer3.png" width="45%">
+  <img src="flyer4.png" width="45%">
+</p>
+
 
 - **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://github.com/Armen-Jean-Andreasian/DeepFocus)*
 - **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a minimalist, customizable, lightweight text editor suitable for both personal and professional use.*
