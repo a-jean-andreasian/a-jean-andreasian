@@ -2,60 +2,12 @@
 
 <h1 align="center">Salut 👋, I’m Armen-Jean</h1>
 <h3 align="center">Software Engineer and Cybersecurity Enthusiast</h3>
-<h3 align="center">Bad habits & good vibes </h3>
 
 ---
-# My projects
-
-
-**Investment Possible Projects:**
-- A platform to discover events: concerts, parties, conferences, etc.
-     - _Supports:_ ticketing and inviting friends directly from the app (MVP ready).
-- A fully autonomous search engine consisting of dozens of crawlers, parsers, pipelines, storage, query reuse, AI-driven vision. A huge project (MVP ready).
-
-**Bootstrapped:**
-- An online cinema (in development).     
-- An original cybersecurity and OSINT product (in development).
-     - _Features_: *IP Logger, URL Scanner, Front-End Pentesting Automation, IP-to-Location, SMS Bomber, Shodan Integration, Email Breach Checker, Account For-Sale Scanner (Twitter, VK), Stolen Credentials Checker*
-
-
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
      <img alt="snake!" src="https://raw.githubusercontent.com/a-jean-andreasian/a-jean-andreasian/160c48c4ced81d2e2a0e5ee248b7f3a39adb4865/pics/github-contribution-grid-snake-dark.svg">
 </picture>
-
----
-# About me for recruiters: 
-
-## 1. Vision
-- **I love:** building products that bring real value or satisfaction to people. The kind of products whose ads simply show what they do and what features they have.
-- **I don’t accept:** fraud, scam, or bubble domains.
-
- ## 2. Background
-- **Education:** InfoSec, Faculty of Computer Engineering.
-     - Applied: InfoSec Theory, Cryptography, Secure Software Development, Network Security & Web Security, Malware Analysis, Reverse Engineering, Organizational Aspects of InfoSec, Programming.
-
-- **Experience intro:**
-     - Initially I've been working in cybersec, then by the time I needed new experience and knowlegde so I came to software development.
-     - Tried almost all domains, but the most I liked and picked backend development.
-
- - **Experience:**
-   - Began with IT consulting brands such as ELEKS and Interexy.
-   - Then I had the pleasure of working with and contributing to products of major companies, and I'm proud that my code still ships in products of LG, AT&T, Skyscanner, and Yandex.
-      
-
-- **Enterprice:**
-     - Deeveloped from scratch and supported the full circle, maintened, supported, or implemented the tasks with close cooperation with product, devops, frontend, analitics.
-     - I like to pick the most challanging task, and even to write in another language for the first time. It's cool to me because I'm open to learn, because I like thing and want to know as much as possible.
- 
- 
-
-## 3. Info
-- More interested: in non-IT product companies.
-- For remote positions sometimes I prefer companies that pay in stablecoins and/or weekly.
-- Contract preferences: 6 / 12 / 18 months.
-- Full-time depends on your team and management.
-- Currently focused on R&D. 
 
 ---
 ## 🧪 Open source projects & tools
@@ -64,12 +16,10 @@
   <img src="projects_flyers/Deepfocus.png" width="33%">
   <img src="projects_flyers/NemesisXT.png" width="33%">
   <img src="projects_flyers/NotGitmodules.png" width="33%">
-  <br>
-  <img src="flyer3.png" width="45%">
-  <img src="flyer4.png" width="45%">
+
 </p>
 
-
+- **[GGiveaways.de](https://ggiveaways.de/)** *is an independent platform that tracks and lists free game giveaways from official stores like Steam, Epic Games, GOG, Xbox, PlayStation, and more. We're a one-man hobby project created solely to help gamers discover legitimate free game offers.*
 - **[DeepFocus](https://addons.mozilla.org/en-US/firefox/addon/deepfocus/)** *is a browser extension that blocks distracting websites and helps you stay focused. A minimalist, but yet the most powerful tool to defeat procrastination. [Source code](https://github.com/Armen-Jean-Andreasian/DeepFocus)*
 - **[Nemesis XT](https://github.com/Armen-Jean-Andreasian/NemesisXT-text-editor)** *is a minimalist, customizable, lightweight text editor suitable for both personal and professional use.*
 - **[FUT Club Player Values Tracker](https://github.com/a-jean-andreasian/FUT-Club-Player-Values-Tracker)** _A tool to explore and analyze FIFA/FC Ultimate Team (FUT) club player market values._
@@ -120,49 +70,6 @@ This is a collection for students as well, however this showcases ready-to-use p
 
 - [**FIFA 22 Icons Unlocked**](https://github.com/Armen-Jean-Andreasian/Fifa22-Icons-Unlocked) *a custom mod to unlock legendary players across all FIFA 22 modes*
 - [**FC 25 Icons Unlocked**](https://github.com/a-jean-andreasian/FC25-ICONS-Unlocked) *a custom mod to unlock legendary players across all FC25 modes. Also it includes 100+ players with their faces of that are not in the game.*
-
----
-
-
-## My book
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/a-jean-andreasian/Oversimplifying-Overcomplicated-Definitions-of-Simple-Things/master/.github/img/cover.png" alt="OODST Cover" height="500" />
-</p>
-
-- Aims to demystify programming with clear explanations of "unthinkably hard" concepts - from transistors to distributed systems and cybersecurity.
-- Exposes illusions, questions dogmas, challenges the scam that profits off confusion, and promotes critical thinking and human values.
-- Also includes non-coding topics, recommendations, and straightforward solutions.
-
----
-<h3 align="left">Connect:</h3>
-<p align="left">  
-  <a href="https://www.codewars.com/users/armM00" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Codewars" height="30" width="30" />
-  </a>  
-  
-  <a href="https://www.leetcode.com/a_andreasian" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
-  </a>  
-  <a href="https://www.instagram.com/a_jean_andreasian/" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/andreasianjean" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
-  </a>
-  <a href="https://www.imdb.com/user/ur107910595" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="IMDb" height="30" width="30" />
-  </a>
-  <a href="https://www.goodreads.com/a_andreasian" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://d.gr-assets.com/misc/1454549160-1454549160_goodreads_misc.png" alt="Goodreads" height="30" width="30" />
-  </a>
-  <a href="https://open.spotify.com/user/inrqs975b7j6ph81db3blo2pt" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" height="30" width="30" />
-  </a>
-  <a href="https://steamcommunity.com/id/hardy_77/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="30" />
-  </a>
-</p>
 
 ---
 
