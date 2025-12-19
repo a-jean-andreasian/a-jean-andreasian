@@ -1,15 +1,6 @@
 ![](https://i.ibb.co/YXrfF37/8-F3-A2220-1000x630.jpg)
 
-<h1 align="center">Salut 👋, I’m Armen-Jean</h1>
-<h3 align="center">Software Engineer and Cybersecurity Enthusiast</h3>
-
-And I love building things that bring happiness to people.
-
-<br>• Delivered a broad set of projects for leading big tech companies including LG and for Skyscanner, AT&T, Yandex as well as IT consulting firms.
-<br>• Worked across all types of development: full lifecycle, building from scratch to MVP, extending and maintaining existing code - solo and small/large teams.
-<br>• Built products for different domains, including healthcare, entertainment, banking, gaming, etc.
-<br>• Production experience with Python, Go, C++ and Ruby, with additional familiarity in Java, Kotlin and JavaScript.
-
+<h1 align="center">Salut 👋</h1>
 Note: I no longer use GitHub for active development or open-source. This account is kept for reference only.
 
 ---
