@@ -10,6 +10,19 @@ Note: I no longer use GitHub for active development or open-source. This account
 </picture>
 
 ---
+## My articles
+
+- [What is Python? Simply and entirely](https://medium.com/@armen_andreasian/whats-python-simply-and-entirely-454ac1bfd599)
+- [RabbitMQ](https://medium.com/@armen_andreasian/rabbitmq-for-beginners-the-no-bullshit-full-guide-958f148912a0)
+- [SOLID](https://medium.com/@a_andreasian/solid-the-hard-term-explained-in-3-minutes-saving-money-of-newcomers-and-leaving-solid-gurus-91d80dd80791)
+- [Poetry](https://medium.com/@armen_andreasian/poetry-quickstart-for-beginners-simple-no-bs-full-guide-2-b52fa4fafdaa)
+- [Timing Attacks](https://medium.com/@armen_andreasian/timing-attacks-tutorial-for-developers-cybersecurity-lessons-1-500f496752a0)
+- [Cross-origin attacks](https://medium.com/@armen_andreasian/cross-origin-attacks-tutorial-for-developers-cybersecurity-lectures-2-2ebc7d896af8)
+- [R&D with Google Is a Trap](https://medium.com/@armen_andreasian/google-is-the-worst-solution-for-r-d-google-play-adsense-00845608c749)
+- [The evolution of Web](https://medium.com/@armen_andreasian/the-evolution-of-web-214162366174)
+- [JWT vs Sessions](https://medium.com/@armen_andreasian/jwt-is-better-than-sessions-pfff-66c0fba14399)
+
+---
 ## 🧪 Open source projects & tools
 
 <p align="center">
