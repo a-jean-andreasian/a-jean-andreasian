@@ -1,4 +1,4 @@
-<h1 align="center">Salut, I'm a senior backend developer. 👋</h1><br>
+<h1 align="center">Salut👋</h1><br>
 
 <br>
 
